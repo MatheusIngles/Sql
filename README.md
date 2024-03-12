@@ -14,6 +14,4 @@ Este repositório contém a implementação do projeto que visa transformar o mi
 
 O mini mundo original pode ser visualizado na imagem abaixo:
 
-![Mini Mundo](https://drive.google.com/file/d/1rT9e1J0-dpeGwh01q8lM2HohlYPQfIKy/view?usp=sharing)
-
-
+![Mini Mundo](https://github.com/MatheusIngles/Sql/raw/main/Mini%20Mundo/Mini%20Mundo.png)
